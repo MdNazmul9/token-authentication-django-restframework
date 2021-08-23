@@ -9,4 +9,4 @@
 # Authorization with token
 ![Authorization with token](https://github.com/MdNazmul9/token-authentication-django-restframework/blob/main/2.token-authentication.png)
 
-Help[https://www.youtube.com/watch?v=5_hLC1QC_Vc]
+[Help](https://www.youtube.com/watch?v=5_hLC1QC_Vc)
