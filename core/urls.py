@@ -19,8 +19,9 @@ from accounts.views import ListUsers, CustomAuthToken
 
 
 urlpatterns = [
-    path('',include('api.urls')),
-    path('users/',ListUsers.as_view()),
+    path('',include('demo.urls')),
+    path('api/',include('api.urls')),
     path('api/token/auth/', CustomAuthToken.as_view()),
+    path('users/',ListUsers.as_view()),  
     path('admin/', admin.site.urls),
 ]
