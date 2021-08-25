@@ -5,8 +5,8 @@
 
 # Token Generate
 
-![Token Generate](https://github.com/MdNazmul9/token-authentication-django-restframework/blob/main/1.token-generate.png)
+![Token Generate](https://github.com/MdNazmul9/token-authentication-django-restframework/blob/main/backend/core/1.token-generate.png)
 # Authorization with token
-![Authorization with token](https://github.com/MdNazmul9/token-authentication-django-restframework/blob/main/2.token-authentication.png)
+![Authorization with token](https://github.com/MdNazmul9/token-authentication-django-restframework/blob/main/backend/core/2.token-authentication.png)
 
 [Help](https://www.youtube.com/watch?v=5_hLC1QC_Vc)
